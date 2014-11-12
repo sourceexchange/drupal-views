@@ -1,2 +1,2 @@
-soex-views
+drupal-views
 ==========
